@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project allows you to create a "Now Listening" interface for Arduino, displaying real-time information about the currently playing track on Spotify. The project consists of a Python script that communicates with Spotify's API to retrieve data, and an Arduino (.ino) project that receives and displays the information.
+This project allows you to create a "Now Playing" interface for Arduino, displaying real-time information about the currently playing track on Spotify. The project consists of a Python script that communicates with Spotify's API to retrieve data, and an Arduino (.ino) project that receives and displays the information.
 
 ## Features
 
