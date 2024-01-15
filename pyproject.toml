@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "now playing arduinofy"
+version = "0.1.0"
+description = "Shows what is currently being played on spotify on an arduino"
+authors = ["Your Name <you@example.com>"]
+license = "MIT License"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+spotipy = "^2.23.0"
+serial = "^0.0.97"
+requests = "^2.31.0"
+python-dotenv = "^1.0.0"
+pyserial = "^3.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
