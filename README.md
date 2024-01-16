@@ -60,3 +60,6 @@ Follow these steps to set up the project:
     python Data.py
 
 # **Enjoy your Spotify "Now Playing" Interface for Arduino!**
+<p align="center">
+  <img src="https://github.com/rroughpatch/Arduinify-Now-Playing/blob/main/assets/showcase.JPG" alt="Showcase">
+</p>
