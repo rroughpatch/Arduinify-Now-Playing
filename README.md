@@ -3,6 +3,7 @@
 </p>
 
 # Arduinify - Spotify Now Playing Interface for Arduino
+**Made by rroughpatch**
 
 ## Overview
 
