@@ -61,5 +61,5 @@ Follow these steps to set up the project:
 
 # **Enjoy your Spotify "Now Playing" Interface for Arduino!**
 <p align="center">
-  <img src="https://github.com/rroughpatch/Arduinify-Now-Playing/blob/main/assets/showcase2.JPG" alt="Showcase">
+  <img src="https://github.com/rroughpatch/Arduinify-Now-Playing/blob/main/assets/showcase.JPG" alt="Showcase">
 </p>
