@@ -1,7 +1,7 @@
 # Arduinify - Spotify Now Playing Interface for Arduino
 
 <p align="center">
-  <img src="path/to/your/project/image.png" alt="Project Image">
+  <img src="https://github.com/rroughpatch/assets/logo.png" alt="Project Image">
 </p>
 
 ## Overview
