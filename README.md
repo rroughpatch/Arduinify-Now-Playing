@@ -40,25 +40,23 @@ Follow these steps to set up the project:
    pip install -r requirements.txt
 
 6. **Configure Spotify API Credentials:**
-   ```bash
-   Create a Spotify Developer account and set up a new application
-   Obtain your SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET
-   Update the SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET variables in the dotenv environment
+   - Create a Spotify Developer account and set up a new application
+   - Obtain your SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET
+   - Update the SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET variables in the dotenv environment
 
 8. **Connect Arduino and Update Firmware:**
-   ```bash
-   Open the Arduino (.ino) file in the Arduino IDE
-   Connect your Arduino board to your computer
-   Select the correct board and port in the Arduino IDE
-   Upload the firmware to your Arduino board
+   - Open the Arduino (.ino) file in the Arduino IDE
+   - Connect your Arduino board to your computer
+   - Select the correct board and port in the Arduino IDE
+   - Upload the firmware to your Arduino board
 
 10. **Update Arduino Serial Port in Configuration:**
-    ```bash
-   Open the Data.py file
-   Update the ARDUINO_COM_PORT variable with the correct serial port (e.g., "/dev/ttyUSB0" or "com3")
+   - Open the Data.py file
+   - Update the ARDUINO_COM_PORT variable with the correct serial port (e.g., "/dev/ttyUSB0" or "com3")
 
 12. **Run the Python Script:**
-    ```bash
-   python Data.py
+ ```bash
+  python Data.py
+
 
 **Enjoy your Spotify "Now Listening" Interface for Arduino!**
