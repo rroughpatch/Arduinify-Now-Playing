@@ -58,7 +58,4 @@ Follow these steps to set up the project:
     ```bash
     python Data.py
 
-
-
-
 # **Enjoy your Spotify "Now Listening" Interface for Arduino!**
