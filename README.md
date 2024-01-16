@@ -55,7 +55,8 @@ Follow these steps to set up the project:
    - Update the ARDUINO_COM_PORT variable with the correct serial port (e.g., "/dev/ttyUSB0" or "com3")
 
 7. **Run the Python Script:**
-  python Data.py
+    ```bash
+    python Data.py
 
 
-**Enjoy your Spotify "Now Listening" Interface for Arduino!**
+## **Enjoy your Spotify "Now Listening" Interface for Arduino!**
