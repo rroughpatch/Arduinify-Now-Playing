@@ -35,27 +35,26 @@ Follow these steps to set up the project:
    ```bash
    cd Arduinify-Now-Playing
 
-4. **Install Required Python Packages:**
+3. **Install Required Python Packages:**
    ```bash
    pip install -r requirements.txt
 
-6. **Configure Spotify API Credentials:**
+4. **Configure Spotify API Credentials:**
    - Create a Spotify Developer account and set up a new application
    - Obtain your SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET
    - Update the SPOTIFY_CLIENT_ID and SPOTIFY_CLIENT_SECRET variables in the dotenv environment
 
-8. **Connect Arduino and Update Firmware:**
+5. **Connect Arduino and Update Firmware:**
    - Open the Arduino (.ino) file in the Arduino IDE
    - Connect your Arduino board to your computer
    - Select the correct board and port in the Arduino IDE
    - Upload the firmware to your Arduino board
 
-10. **Update Arduino Serial Port in Configuration:**
+6. **Update Arduino Serial Port in Configuration:**
    - Open the Data.py file
    - Update the ARDUINO_COM_PORT variable with the correct serial port (e.g., "/dev/ttyUSB0" or "com3")
 
-12. **Run the Python Script:**
- ```bash
+7. **Run the Python Script:**
   python Data.py
 
 
