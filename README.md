@@ -36,7 +36,7 @@ Follow these steps to set up the project:
    cd Arduinify-Now-Playing
 
 3. **Install Required Python Packages:**
-   ```bash
+   ```python
    pip install -r requirements.txt
 
 4. **Configure Spotify API Credentials:**
@@ -55,7 +55,7 @@ Follow these steps to set up the project:
    - Update the ARDUINO_COM_PORT variable with the correct serial port (e.g., "/dev/ttyUSB0" or "com3")
 
 7. **Run the Python Script:**
-    ```bash
+    ```python
     python Data.py
 
 # **Enjoy your Spotify "Now Playing" Interface for Arduino!**
